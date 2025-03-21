@@ -2,4 +2,4 @@
 '@evidence-dev/core-components': patch
 ---
 
-Fix Basemap rendering when used with inputs
+Fix height prop in maps
